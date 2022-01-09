@@ -2,8 +2,9 @@
 Fırat Üniversitesi Yazılım Mühendisliği birinci sınıf öğrencisi olarak hazırlamış olduğum final ödevim. 
 Linke tıklayarak ulaşabilirsiniz.https://youtu.be/c2W35SWfBNU
 Cevaplara buradan ulaşabilirsiniz.
-
+CEVAP 1
 ![1](https://user-images.githubusercontent.com/91211621/148688359-c7df386d-00a4-4d80-b9fe-742ec48b307e.png)
+CEVAP 2
 ![2](https://user-images.githubusercontent.com/91211621/148688360-2b738754-d6f5-4b62-9c96-6d22e0eafd04.png)
 ![3](https://user-images.githubusercontent.com/91211621/148688361-d3f44401-2c9c-49bb-b7e3-a7fc389b8f62.png)
 ![4](https://user-images.githubusercontent.com/91211621/148688362-60d35123-76c4-4e6c-bbd3-de86595a0468.png)
